@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+AkBotDev's+Repo!;created+by+JOKER+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+KzBotDev's+Repo!;created+by+SPIDERMAN+TG!;A+simple+tg+FILE+SENDING+bot!)</p>
 <p align="center">
-  <img src="assets/logo(1).jpg" alt="Akbotmakersnew Logo">
+  <https://telegra.ph/file/4f7c8f7efcf40b8d267b2.jpg" alt="KILLER-ZACK ,Logo">
 </p>
 <h1 align="center">
   <b>LUCIFER BOT</b>
@@ -67,11 +67,11 @@ You can deploy this on HEROKU.COM
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 # DEVS
-[AK BOT DEVS](https://t.me/Ak_Bot_SupportGroup) & [Ls BOTZ](https://t.me/Ls_Supportz)
+[Kz BOT DEVS](https://t.me/Ak_Bot_SupportGroup) & [Ls BOTZ](https://t.me/Ls_Supportz)
 
 ## CREATOR
  
-* [JOKER TG🇮🇳](https://t.me/IAM_A_JOKER)
+* [SPIDERMAN TG🇮🇳](https://t.me/@minimohanan)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
